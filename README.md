@@ -8,7 +8,7 @@ Features
 - Provides metrics for model evaluation, including accuracy, precision, recall, and F1-score.
 
 # Citation
-If you use this code or dataset in your research, please cite:
+If you use this code in your research, please cite:
 
 ```
 @inproceedings{BUT189196,
