@@ -10,7 +10,7 @@ Features
 # Citation
 If you use this code or dataset in your research, please cite:
 
-''
+```
 @inproceedings{BUT189196,
   author="Viet Anh {Phan} and Jan {Jeřábek} and Lukáš {Malina}",
   title="Comparison of Multiple Feature Selection Techniques for Machine Learning-Based Detection of IoT Attacks",
@@ -23,4 +23,4 @@ If you use this code or dataset in your research, please cite:
   isbn="979-8-4007-1718-5",
   url="https://dl.acm.org/doi/10.1145/3664476.3670440"
 }
-''
+```
